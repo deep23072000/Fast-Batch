@@ -1,0 +1,136 @@
+#login{
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    width: 350px;
+    box-shadow: 0px 0px 40px palevioletred;
+    border-radius: 10px;
+    margin-top: 10%;
+}
+
+body{
+    background-color: black;
+}
+
+
+#login div input{
+    width: 300px;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 2px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid palevioletred;
+    color: palevioletred;
+    background-color: black;
+}
+
+
+#login div button{
+    width: 300px;
+    margin: 30px 10px 10px 10px;
+    padding: 10px;
+    border-radius: 7px;
+    font-size: 16px;
+    border: 2px solid palevioletred;
+    color: palevioletred;
+    background-color: black;
+}
+
+#login div input::placeholder{
+    color: palevioletred;
+}
+
+#login div input:focus{
+    scale: 1.1;
+    transition: scale .2s;
+}
+
+#forgot{
+    justify-content: space-between;
+    display: flex;
+    padding:0px 30px 0px 30px;
+    margin-top: -10px;
+}
+
+
+/* ===dashboard home page css==== */
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono&family=Montserrat:wght@500&family=Open+Sans:wght@500&family=Space+Grotesk:wght@700&family=Vina+Sans&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+aside{
+    width: 250px;
+    height: 100vh;
+    background-color: black;
+    float: left;
+
+}
+aside ul li img{
+    border-radius: 50%;
+}
+
+aside ul li a{
+    text-decoration: none;
+    color: white;
+}
+aside ul{
+    padding: 0px;
+}
+aside ul li{
+    list-style-type: none;
+    padding: 20px 20px 20px 60px;
+}
+aside ul li:hover{
+    background-color: rgb(154, 150, 150);
+    
+    
+}
+
+#divtop{
+    width: 100%;
+    padding: 20px;
+    font-size: 48px;
+    background-color: black;
+    color: white;
+    
+}
+
+/* ==========================three div dashboard page===== */
+
+.div3{
+    display: flex;
+    justify-content: center;
+}
+
+.div3 div{
+    width: 300px;
+    height: 160px;
+    border: 2px solid black;
+    margin: 60px 30px 30px 30px;
+    border-radius: 20px;
+    font-size: 100px;
+    padding: 20px;
+}
+
+#student::after{
+    content:"++"
+}
+
+#teachers::after{
+    content:"++"
+}
+
+/* =======data css */
+
+#data{
+    height: 80vh;
+    overflow-y: scroll;
+}

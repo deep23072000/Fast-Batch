@@ -1,0 +1,127 @@
+{
+  "registration": [
+    {
+      "id": "8f5b",
+      "name": "Deep",
+      "username": "deepak@gmail.com",
+      "mobile": "9876543213",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/002/002/403/small/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "password": "1234",
+      "cpassword": "1234"
+    },
+    {
+      "id": "64b1",
+      "name": "daniel",
+      "username": "daneil@gmail.com",
+      "mobile": "9876543213",
+      "image": "https://img.freepik.com/premium-photo/bearded-man-illustration_665280-67044.jpg",
+      "password": "1234",
+      "cpassword": "1234"
+    },
+    {
+      "id": "b2b5",
+      "name": "Kalpesh",
+      "username": "Kalpesh@gmail",
+      "mobile": "0987654321",
+      "image": "https://img.freepik.com/premium-photo/graphic-designer-digital-avatar-generative-ai_934475-9292.jpg",
+      "password": "123",
+      "cpassword": "123"
+    }
+  ],
+
+  "product":[
+    {
+      "id":1,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },
+  {
+      "id":2,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },{
+      "id":3,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },{
+      "id":4,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },{
+      "id":5,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },{
+      "id":6,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },{
+      "id":7,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },{
+      "id":8,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },{
+      "id":9,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },{
+      "id":10,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },{
+      "id":11,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },{
+      "id":12,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  },{
+      "id":13,
+      "pname":"Shoes",
+      "pprice":"999",
+      "pbrand":"abros",
+      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+
+  }
+  ]
+}

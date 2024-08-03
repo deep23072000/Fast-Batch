@@ -134,3 +134,19 @@ aside ul li:hover{
     height: 80vh;
     overflow-y: scroll;
 }
+
+/* ==========add product button ===== */
+
+#add_product{
+    margin: 20px 100px 20px 800px;
+}
+
+/* ===update form show==== */
+
+#showform{
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    z-index: 100;
+
+}

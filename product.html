@@ -5,8 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
-<body onload="show()" style="background-color: white !important;">
+<body style="background-color: white !important;">
     <aside>
         <ul>
             <li><img id="logo" width="100px" src="https://yt3.googleusercontent.com/ytc/APkrFKbhtZtChFrml6z5-hy0m56Vajgwhr5vqkQYdmr92Q=s900-c-k-c0x00ffffff-no-rj" alt=""></li>
@@ -27,10 +28,14 @@
     </div>
 
     </center>
+
+    <button id="add_product" onclick="add_product_form()"> Add products </button>
     
     <div id="data">
     <table width="60%" id="productdata" align="center" border="2px" cellpadding="10px"></table>
     </div>
+
+    <div id="showform"></div>
 
     <script src="./home.js"></script>
     <script src="./product.js"></script>

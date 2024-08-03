@@ -28,100 +28,41 @@
       "cpassword": "123"
     }
   ],
-
-  "product":[
+  "product": [
     {
-      "id":1,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },
-  {
-      "id":2,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },{
-      "id":3,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },{
-      "id":4,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },{
-      "id":5,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },{
-      "id":6,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },{
-      "id":7,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },{
-      "id":8,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },{
-      "id":9,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },{
-      "id":10,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },{
-      "id":11,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },{
-      "id":12,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  },{
-      "id":13,
-      "pname":"Shoes",
-      "pprice":"999",
-      "pbrand":"abros",
-      "pimage":"https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-
-  }
+      "id": "1",
+      "pname": "Shoes",
+      "pprice": "999",
+      "pbrand": "abros",
+      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "3",
+      "pname": "Shoes",
+      "pprice": "999",
+      "pbrand": "abros",
+      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "5",
+      "pname": "Shoes",
+      "pprice": "999",
+      "pbrand": "abros",
+      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "12",
+      "pname": "Shoes",
+      "pprice": "999",
+      "pbrand": "abros",
+      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+    },
+    {
+      "id": "13",
+      "pname": "Shoes",
+      "pprice": "999",
+      "pbrand": "abros",
+      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+    }
   ]
 }

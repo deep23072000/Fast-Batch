@@ -30,39 +30,25 @@
   ],
   "product": [
     {
-      "id": "1",
       "pname": "Shoes",
       "pprice": "999",
-      "pbrand": "abros",
-      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+      "pbrand": "touch",
+      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false",
+      "id": "3"
     },
     {
-      "id": "3",
       "pname": "Shoes",
       "pprice": "999",
-      "pbrand": "abros",
-      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+      "pbrand": "nike",
+      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false",
+      "id": "12"
     },
     {
-      "id": "5",
       "pname": "Shoes",
-      "pprice": "999",
+      "pprice": "1010",
       "pbrand": "abros",
-      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-    },
-    {
-      "id": "12",
-      "pname": "Shoes",
-      "pprice": "999",
-      "pbrand": "abros",
-      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
-    },
-    {
-      "id": "13",
-      "pname": "Shoes",
-      "pprice": "999",
-      "pbrand": "abros",
-      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false"
+      "pimage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/i/t/-original-imagg5wccdgd4k9m.jpeg?q=90&crop=false",
+      "id": "13"
     }
   ]
 }

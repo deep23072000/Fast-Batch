@@ -44,7 +44,8 @@ const login = async ()=>{
    
    if(finded_val){
    window.localStorage.setItem('login_information',JSON.stringify(finded_val));
-   window.location.href = "home.html"
+   // window.location.href = "home.html"
+   window.open("home.html")
    }else{
       window.alert = "please register";
    window.location.href = "registration.html"

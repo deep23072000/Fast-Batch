@@ -1,4 +1,5 @@
 let response = null;
+
 (async function(){
     let url = 'http://localhost:4000/product';
     let data = await fetch(url);
@@ -85,4 +86,47 @@ store.innerHTML = form_design;
 
 function add(){
     
+}
+
+
+
+
+function under(arg){
+    let s = null;
+    // let val = document.querySelector(`${arg}`).value;
+    console.log(arg);
+    if(arg === 500){
+        s = response.filter(e=> e.pprice > 0 && e.pprice <arg);
+
+    console.log(s)
+    }
+    else if(arg === 1000){
+        s = response.filter(e=> e.pprice > 500 && e.pprice <arg);
+        
+
+    console.log(s)
+    }
+    else if(arg === 2000){
+        s = response.filter(e=> e.pprice > 1000 && e.pprice <arg);
+
+    console.log(s)
+    }
+    else if(arg === 3000){
+        s = response.filter(e=> e.pprice > 2000 && e.pprice <arg);
+
+    console.log(s)
+    };
+    
+    
+    document.querySelector('#productdata').innerHTML = s.map(e=>`
+        <tr>
+           <td> ${e.id}</td>
+           <td> ${e.pname}</td>
+           <td> ${e.pprice}</td>
+           <td><img height="50px" src="${e.pimage}" alt="not found"></td>
+           <td> ${e.pbrand}</td>
+           <td onclick="del(${e.id})"><i class="fa-solid fa-trash"></i></td>
+           <td onclick="update(${e.id})"><i class="fa-regular fa-pen-to-square"></i></td>
+        </tr>`).join("")
+   
 }
